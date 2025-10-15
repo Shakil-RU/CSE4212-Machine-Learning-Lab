@@ -33,7 +33,7 @@
 ## 📗 Unsupervised Learning
 
 1. **K-Means Clustering**
-   - [`k-means_cluster.ipynb`](./k-means_cluster.ipynb)
+   - [`k-means_cluster.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/k-means_cluster.ipynb)
 
 2. **Hierarchical Clustering**
    - [`hierarchical_clustering.ipynb`](./hierarchical_clustering.ipynb)
