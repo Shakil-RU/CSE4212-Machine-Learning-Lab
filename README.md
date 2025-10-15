@@ -36,7 +36,7 @@
    - [`k-means_cluster.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/k-means_cluster.ipynb)
 
 2. **Hierarchical Clustering**
-   - [`hierarchical_clustering.ipynb`](./hierarchical_clustering.ipynb)
+   - [`hierarchical_clustering.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/hierarchical_clustering.ipynb)
 
 3. **DBSCAN**
    - [`dbscan.ipynb`](./dbscan.ipynb)
