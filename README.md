@@ -39,15 +39,15 @@
    - [`hierarchical_clustering.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/hierarchical_clustering.ipynb)
 
 3. **DBSCAN**
-   - [`dbscan.ipynb`](./dbscan.ipynb)
+   - [`dbscan.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/dbscan.ipynb)
 
 4. **Expectation-Maximization (Coin Flip Example)**
-   - [`expectation_maximization_coin_flip.ipynb`](./expectation_maximization_coin_flip.ipynb)
+   - [`expectation_maximization_coin_flip.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/expectation_maximization_coin_flip.ipynb)
 
 5. **Gaussian Mixture Model (GMM)**
-   - [`Gmm.ipynb`](./Gmm.ipynb)
+   - [`Gmm.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/Gmm.ipynb)
 
 6. **Principal Component Analysis (PCA)**
-   - [`pca.ipynb`](./pca.ipynb)
+   - [`pca.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Unsupervised%20Learning/pca.ipynb)
 
 ---
