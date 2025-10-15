@@ -9,24 +9,24 @@
 ## 📘 Supervised Learning
 
 1. **Linear Regression**
-   - [`Linear Regression with L1 and L2 Regularization.ipynb`](./Linear%20Regression%20with%20L1%20and%20L2%20Regularization.ipynb)
+   - [`Linear Regression with L1 and L2 Regularization.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/1.%20Linear%20Regression%20with%20L1%20and%20L2%20Regularization.ipynb)
 
 2. **Logistic Regression**
-   - [`Logistic Regression.ipynb`](./Logistic%20Regression.ipynb)
+   - [`Logistic Regression.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/2.Logistic%20Regression.ipynb)
 
 3. **Naive Bayes Classifier**
-   - [`Naive Bayes Classifier.ipynb`](./Naive%20Bayes%20Classifier.ipynb)
+   - [`Naive Bayes Classifier.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/3.%20Naive%20Bayes%20Classifier.ipynb)
 
 4. **Decision Tree**
-   - [`DecisionTree.ipynb`](./DecisionTree.ipynb)
+   - [`DecisionTree.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/DecisionTree.ipynb)
 
 5. **Random Forest**
-   - Binary Classification: [`random_forest_binary_classification.ipynb`](./random_forest_binary_classification.ipynb)  
-   - Multi-class Classification: [`random_forest_multiclass_classification.ipynb`](./random_forest_multiclass_classification.ipynb)  
-   - Regression: [`random_forest_regression.ipynb`](./random_forest_regression.ipynb)
+   - Binary Classification: [`random_forest_binary_classification.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/random_forest_binary_classification.ipynb)  
+   - Multi-class Classification: [`random_forest_multiclass_classification.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/random_forest_multiclass_classification.ipynb)  
+   - Regression: [`random_forest_regression.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/random_forest_regression.ipynb)
 
 6. **Support Vector Machine (SVM)**
-   - [`support_vector_machine.ipynb`](./support_vector_machine.ipynb)
+   - [`support_vector_machine.ipynb`](https://github.com/Shakil-RU/CSE4212-Machine-Learning-Lab/blob/main/Supervised%20Learning/support_vector_machine.ipynb)
 
 ---
 
